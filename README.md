@@ -1,0 +1,2 @@
+# premium-reduc-001-reduction-atmosphere-damper-po
+Stop risking costly scrap and audit failures from undocumented reduction atmosphere damper adjustments.  This Notion template gives you a structured, timestamped log to track every damper position change in your reduction atmosphere furnace. Replace messy paper logs or scattered spreadsheets with a centralized, searchable record that supports compl
